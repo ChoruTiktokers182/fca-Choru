@@ -4,4 +4,4 @@
 install pakage
 
 
-Npm i get+https://github.com/ChoruTiktokers182/fca-Choru.get
+npm i get+https://github.com/ChoruTiktokers182/fca-Choru.get
