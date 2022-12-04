@@ -1,22 +1,22 @@
 {
   "name": "fca-horizon-remake",
-  "version": "20.0.6",
-  "description": "Facebook Chat Api Được Remake Bới Horizon Chống Get (available) Và Pay Acc (maybe?)",
+  "version": "30.0.0",
+  "description": "Facebook Chat Api Get Remake Boi Horizon Against Get (available) And Pay Acc (maybe?)",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Avery, David, Maude, Benjamin, KanzuWakazaki",
+  "author": "Avery, David, Maude, Benjamin, KanzuWakazaki , Choru TikTokers"
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HarryWakazaki/Fca-Horizon-Remake/issues"
+    "url": "https://github.com/ChoruTiktokers182/fca-Choru/issues"
   },
-  "homepage": "https://github.com/HarryWakazaki/Fca-Horizon-Remake#readme",
+  "homepage": "https://github.com/ChoruTiktokers182/fca-Choru#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/HarryWakazaki/Fca-Horizon-Remake.git"
+    "url": "git+https://github.com/ChoruTiktokers182/fca-Choru.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -83,6 +83,10 @@
     "Fca horizon",
     "fca-horizon-remake",
     "horizon fca",
-    "horizon"
+    "horizon",
+    "Fca Choru",
+    "Choru",
+    "choru"
+
   ]
-}
+  }
